@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará uma coleção dos 
 ### 1. [SQL-Database-Guide](https://github.com/EduardoDiNizo/SQL-Database-Guide)
 Um guia abrangente sobre o uso de bancos de dados SQL, cobrindo tópicos como modelagem de dados, DDL, DML, procedimentos armazenados, índices, transações, segurança, alta disponibilidade e mais.
 
-### 2. [No-SQLDatabase-Guide](https://github.com/EduardoDiNizo/No-SQLDatabase-Guide)
+### 2. [No-SQL-Database-Guide](https://github.com/EduardoDiNizo/No-SQL-Database-Guide)
 Explora o uso de bancos de dados NoSQL, incluindo conceitos fundamentais, casos de uso, e exemplos práticos.
 
 ### 3. [Spring-Framework-Guide](https://github.com/EduardoDiNizo/Spring-Framework-Guide)
