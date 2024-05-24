@@ -63,7 +63,8 @@ Explicações e tutoriais sobre o uso do Git Flow para gerenciar o ciclo de vida
 
 ## Sobre Mim
 
-Trabalho com desenvolvimento de software a mais de 10 anos com experiência em diversas tecnologias, incluindo Java, Python, Go, Flutter, Docker, e muito mais.
+Sou formado como Tecnólogo em Banco de Dados pela Fatec de São José dos Campos, trabalho com desenvolvimento de software a mais de 10 anos com experiência em diversas tecnologias, incluindo Java, Python, Go, Flutter, Docker e muito mais.
+Atualmente atuo como DevOps Sofware Engineer, com foco em desenvimento Java e Azure.
 
 ## Contato
 
