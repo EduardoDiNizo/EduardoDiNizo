@@ -1,4 +1,4 @@
-# Portfólio de Eduardo Di Nizo
+# Eduardo Di Nizo
 
 Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará uma coleção dos meus projetos, destacando minhas habilidades e experiências em desenvolvimento de software.
 
